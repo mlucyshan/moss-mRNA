@@ -1,0 +1,7 @@
+FileName	SampleName	treatment	time
+00min_rep2.accepted_hits.filtered.sorted.bam	00minABA_rep2	Control	00min
+30min_rep2.accepted_hits.filtered.sorted.bam	30minABA_rep2	ABA	30min
+60min_rep2.accepted_hits.filtered.sorted.bam	60minABA_rep2	ABA	60min
+00min_rep1.accepted_hits.filtered.sorted.bam	00minABA_rep1	Control	00min
+30min_rep1.accepted_hits.filtered.sorted.bam	30minABA_rep1	ABA	30min
+60min_rep1.accepted_hits.filtered.sorted.bam	60minABA_rep1	ABA	60min
